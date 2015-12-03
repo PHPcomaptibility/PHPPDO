@@ -1,0 +1,27 @@
+{
+	"name": "PHPcomaptibility/PHPPDO",
+	"description": "PHPPDO is a database abstraction layer over the current PHP database functions, which aim is to offer a migration path for new applications to the PDO classes presented in PHP 5.1.",
+	"keywords": ["PDO", "database"],
+	"homepage": "http://sourceforge.net/projects/phppdo/",
+	"license": ["GNU"],
+	"authors": [
+		{
+			"name": "PHPPDO",
+			"homepage": "http://sourceforge.net/projects/phppdo/"
+		},
+		{
+			"name": "Pavel Hajek",
+			"homepage": "http://www.pavelhajek.cz/"
+		}
+	],
+    "autoload": {
+        "classmap": ["ldap_auth.php"]
+    },
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+    "autoload": {
+	"files": ["phppdo.php"]
+    }
+}

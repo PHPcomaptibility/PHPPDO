@@ -1,3 +1,7 @@
+===============================================================
+Composer instalation: composer require php-comaptibility/phppdo
+===============================================================
+
 PHPPDO is a database abstraction layer over the current PHP database functions,
 which aim is to offer a migration path for new applications to the PDO classes
 presented in PHP 5.1.

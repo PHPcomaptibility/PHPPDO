@@ -18,11 +18,15 @@
     "autoload": {
         "classmap": ["ldap_auth.php"]
     },
-    "minimum-stability": "dev",
     "require": {
 
     },
     "autoload": {
 	"files": ["phppdo.php"]
-    }
+    },
+  	"minimum-stability": "dev",
+  	"extra": {
+		"branch-alias": {
+	  	"dev-master": "0.9-dev"
+	}
 }

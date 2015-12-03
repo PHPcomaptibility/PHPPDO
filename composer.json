@@ -6,8 +6,9 @@
 	"license": ["GNU"],
 	"authors": [
 		{
-			"name": "PHPPDO",
-			"homepage": "http://sourceforge.net/projects/phppdo/"
+			"name": "Nikolay Ananiev",
+			"homepage": "http://sourceforge.net/projects/phppdo/",
+		  	"email": "admin@devuni.com",
 		},
 		{
 			"name": "Pavel Hajek",

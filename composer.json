@@ -15,9 +15,6 @@
 			"homepage": "http://www.pavelhajek.cz/"
 		}
 	],
-    "autoload": {
-        "classmap": ["ldap_auth.php"]
-    },
     "require": {
 
     },
